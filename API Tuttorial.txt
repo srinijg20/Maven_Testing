@@ -1,0 +1,3 @@
+http://www.webservicex.net/CurrencyConvertor.asmx?WSDL
+
+ProgrammableWeb.com/apis/directory
