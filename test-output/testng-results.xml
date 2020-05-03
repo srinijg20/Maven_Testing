@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="41195" started-at="2020-05-02T09:01:23Z" finished-at="2020-05-02T09:02:04Z">
+  <suite name="Default suite" duration-ms="14389" started-at="2020-05-03T07:53:12Z" finished-at="2020-05-03T07:53:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="41195" started-at="2020-05-02T09:01:23Z" finished-at="2020-05-02T09:02:04Z">
+    <test name="Default test" duration-ms="14389" started-at="2020-05-03T07:53:12Z" finished-at="2020-05-03T07:53:26Z">
       <class name="com.lib.Maven_Demo1">
-        <test-method status="PASS" signature="login_Ebay()[pri:0, instance:com.lib.Maven_Demo1@28d25987]" name="login_Ebay" duration-ms="41146" started-at="2020-05-02T09:01:23Z" finished-at="2020-05-02T09:02:04Z">
+        <test-method status="PASS" signature="login_Ebay()[pri:0, instance:com.lib.Maven_Demo1@28d25987]" name="login_Ebay" duration-ms="14333" started-at="2020-05-03T07:53:12Z" finished-at="2020-05-03T07:53:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_Ebay -->
