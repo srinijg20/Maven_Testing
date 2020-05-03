@@ -23,9 +23,7 @@ public class Maven_Demo1
 		String eTitle="Sign in or Register | eBay";
 		System.out.println("the title is "+title);
 		Assert.assertEquals(title, eTitle);
-		
-		
-		
+		System.out.println("Git integration");
 		
 	}
 
