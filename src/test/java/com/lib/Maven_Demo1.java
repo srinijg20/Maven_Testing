@@ -24,6 +24,8 @@ public class Maven_Demo1
 		System.out.println("the title is "+title);
 		Assert.assertEquals(title, eTitle);
 		System.out.println("Git integration2");
+		Driver.close();
+		
 		
 	}
 
