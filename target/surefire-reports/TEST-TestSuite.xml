@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="18.398" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="20.344" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="Maven_Demo3"/>
@@ -12,7 +12,7 @@
     <property name="SynaProgDir" value="Synaptics\SynTP"/>
     <property name="os.name" value="Windows 10"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_201\lib\resources.jar;C:\Program Files\Java\jre1.8.0_201\lib\rt.jar;C:\Program Files\Java\jre1.8.0_201\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_201\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_201\lib\jce.jar;C:\Program Files\Java\jre1.8.0_201\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_201\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_201\classes"/>
-    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
     <property name="sun.desktop" value="windows"/>
     <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
@@ -27,11 +27,12 @@
     <property name="PROMPT" value="$P$G"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="Maven_Demo3"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Maven_Demo3/11/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#11"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Maven_Demo3/16/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#16"/>
     <property name="OneDrive" value="C:\Users\srinipriya\OneDrive"/>
     <property name="TMPDIR" value="C:\Users\Public\Documents\Wondershare\CreatorTemp"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_201\bin"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="f1bf06567aa23a688ea918188b695af06d77eb01"/>
     <property name="LOCALAPPDATA" value="C:\Users\srinipriya\AppData\Local"/>
     <property name="java.version" value="1.8.0_201"/>
     <property name="PROCESSOR_LEVEL" value="6"/>
@@ -41,7 +42,7 @@
     <property name="NODE_NAME" value="master"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_201\lib\endorsed"/>
     <property name="UOIPME_REG_PATH" value="C:\Program Files\Intel Corporation\USB over IP"/>
-    <property name="BUILD_ID" value="11"/>
+    <property name="BUILD_ID" value="16"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -56,13 +57,13 @@
     <property name="java.home" value="C:\Program Files\Java\jre1.8.0_201"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="10.0"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Maven_Demo3/11/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Maven_Demo3/16/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="TMP" value="C:\Users\SRINIP~1\AppData\Local\Temp"/>
     <property name="path.separator" value=";"/>
     <property name="java.vm.version" value="25.201-b09"/>
     <property name="user.variant" value=""/>
-    <property name="GIT_PREVIOUS_COMMIT" value="981f48789b75d0e0c7e45ad6cf9f8d2a4edf4818"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="f1bf06567aa23a688ea918188b695af06d77eb01"/>
     <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Maven_Demo3/display/redirect"/>
     <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
     <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-8C4CL6D"/>
@@ -79,7 +80,7 @@
     <property name="POM_GROUPID" value="MavenTesting"/>
     <property name="user.home" value="C:\Users\srinipriya"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-Maven_Demo3-11"/>
+    <property name="BUILD_TAG" value="jenkins-Maven_Demo3-16"/>
     <property name="JENKINS_SERVER_COOKIE" value="e7d89b9b02d9e247"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -93,7 +94,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0"/>
     <property name="java.class.path" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12.jar;C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0\boot\plexus-classworlds-2.5.2.jar;C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-4.3.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 57827"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-4.3.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 54438"/>
     <property name="Path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs;C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin\;C:\Program Files\Java\jdk1.8.0_191\bin\;C:\Program Files (x86)\Jenkins\war\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Users\srinipriya\AppData\Roaming\npm;C:\Users\srinipriya\Appium\sdk-tools-windows-4333796\platform-tools;C:\Users\srinipriya\Appium\sdk-tools-windows-4333796\tools\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
@@ -107,7 +108,7 @@
     <property name="HUDSON_HOME" value="C:\Program Files (x86)\Jenkins"/>
     <property name="PATH+MAVEN" value="C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/Maven_Demo3/11/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Maven_Demo3/16/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
@@ -120,14 +121,14 @@
     <property name="line.separator" value="&#10;"/>
     <property name="MAVEN_HOME" value="C:\Users\srinipriya\Downloads\apache-maven-3.6.0-bin\apache-maven-3.6.0"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="11"/>
+    <property name="BUILD_NUMBER" value="16"/>
     <property name="ANDROID_HOME" value="C:\Users\srinipriya\Appium\sdk-tools-windows-4333796"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="PROCESSOR_REVISION" value="3d04"/>
     <property name="GIT_BRANCH" value="origin/master"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
     <property name="windir" value="C:\WINDOWS"/>
-    <property name="GIT_COMMIT" value="ca197261ee8047d2e1f0d21e80d93f1180c53653"/>
+    <property name="GIT_COMMIT" value="f1bf06567aa23a688ea918188b695af06d77eb01"/>
     <property name="=C:" value="C:\Program Files (x86)\Jenkins"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="SystemDrive" value="C:"/>
@@ -140,5 +141,5 @@
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
     <property name="GIT_URL" value="https://github.com/srinijg20/Maven_Testing.git"/>
   </properties>
-  <testcase name="login_Ebay" classname="com.lib.Maven_Demo1" time="17.39"/>
+  <testcase name="login_Ebay" classname="com.lib.Maven_Demo1" time="19.523"/>
 </testsuite>
