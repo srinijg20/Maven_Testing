@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14389" started-at="2020-05-03T07:53:12Z" finished-at="2020-05-03T07:53:26Z">
+  <suite name="Suite" duration-ms="65987" started-at="2020-05-06T06:39:33Z" finished-at="2020-05-06T06:40:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14389" started-at="2020-05-03T07:53:12Z" finished-at="2020-05-03T07:53:26Z">
+    <test name="Test" duration-ms="65987" started-at="2020-05-06T06:39:33Z" finished-at="2020-05-06T06:40:39Z">
       <class name="com.lib.Maven_Demo1">
-        <test-method status="PASS" signature="login_Ebay()[pri:0, instance:com.lib.Maven_Demo1@28d25987]" name="login_Ebay" duration-ms="14333" started-at="2020-05-03T07:53:12Z" finished-at="2020-05-03T07:53:26Z">
+        <test-method status="PASS" signature="login_Ebay()[pri:0, instance:com.lib.Maven_Demo1@28d25987]" name="login_Ebay" duration-ms="65908" started-at="2020-05-06T06:39:33Z" finished-at="2020-05-06T06:40:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_Ebay -->
       </class> <!-- com.lib.Maven_Demo1 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
